@@ -1,0 +1,1854 @@
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00583.jpg 429,275,539,425,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00406.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00659.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00730.jpg 291,281,463,439,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00076.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00683.jpg 441,52,742,305,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00006.jpg 422,249,512,428,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00526.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00280.jpg 499,128,741,250,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02632.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01649.jpg 386,155,695,268,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01668.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00263.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00168.jpg 555,145,783,608,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00360.jpg 603,243,645,320,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01951.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01380.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00864.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02068.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00433.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00194.jpg 198,167,255,235,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00709.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01045.jpg 323,120,742,280,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00028.jpg 484,165,742,627,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00472.jpg 469,345,526,422,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01811.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00323.jpg 527,130,701,650,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00105.jpg 473,186,630,375,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00135.jpg 285,85,384,146,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00731.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00281.jpg 971,1,1356,388,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01108.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00856.jpg 818,463,1278,715,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03408.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00344.jpg 213,132,281,240,1 240,277,303,310,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00447.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01542.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00265.jpg 532,150,732,617,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00134.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00291.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02248.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00131.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00492.jpg 142,55,281,247,1 179,283,284,337,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00686.jpg 269,271,439,411,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00297.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00636.jpg 437,191,623,439,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00180.jpg 454,196,642,431,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01280.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02880.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00639.jpg 304,533,737,717,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00376.jpg 1740,259,1913,448,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00615.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01883.jpg 404,59,540,169,1 359,169,673,264,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01377.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00896.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01637.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00703.jpg 427,250,527,431,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00901.jpg 50,255,234,403,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00166.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00386.jpg 429,161,649,432,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01593.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00300.jpg 689,309,1007,488,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00157.jpg 430,304,537,423,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00486.jpg 428,261,552,422,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00555.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00001.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00080.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00691.jpg 822,627,973,717,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00813.jpg 430,252,526,433,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00727.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01666.jpg 411,141,687,265,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00610.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00125.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02663.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00701.jpg 408,209,585,444,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00267.jpg 434,303,523,429,1 509,257,544,297,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03126.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00981.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01449.jpg 504,131,740,224,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00208.jpg 454,196,642,431,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00535.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00289.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03315.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00483.jpg 561,262,616,293,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00948.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01938.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00678.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00126.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00751.jpg 299,300,470,446,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00104.jpg 473,363,531,426,1 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00592.jpg 152,31,487,428,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00548.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00988.jpg 414,141,740,271,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01265.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00315.jpg 220,167,277,241,1 225,271,292,308,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00748.jpg 346,24,723,297,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00525.jpg 471,362,523,427,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01269.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00882.jpg 430,251,535,426,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00984.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00547.jpg 409,253,535,425,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00728.jpg 544,69,740,308,1 339,145,538,231,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00225.jpg 235,228,306,287,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02472.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00147.jpg 469,350,527,424,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00612.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00001.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00697.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00393.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00382.jpg 445,100,714,265,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01667.jpg 425,111,672,253,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00336.jpg 417,141,704,268,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00243.jpg 653,0,1030,374,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01613.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03117.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00415.jpg 740,239,1080,454,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00151.jpg 454,196,642,431,1 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00542.jpg 134,10,494,423,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00493.jpg 1185,5,1619,503,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00818.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00826.jpg 293,244,470,391,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00776.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00726.jpg 152,26,331,339,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00727.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01603.jpg 418,156,693,272,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00003.jpg 472,233,609,422,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00656.jpg 428,233,527,428,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00470.jpg 162,130,271,246,1 192,277,290,331,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01001.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00739.jpg 425,252,527,426,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01910.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00261.jpg 475,189,632,374,1 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00322.jpg 3,87,450,477,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01576.jpg 427,131,628,239,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00175.jpg 800,410,1097,704,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00895.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00926.jpg 370,104,740,284,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00066.jpg 471,338,531,424,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00664.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00044.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00642.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00541.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00809.jpg 385,216,571,426,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00282.jpg 544,503,800,714,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00270.jpg 715,336,743,389,1 112,212,385,343,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00544.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01771.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00187.jpg 469,350,527,424,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01892.jpg 389,148,668,259,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02028.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01477.jpg 430,147,745,295,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00712.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00207.jpg 611,295,927,475,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00691.jpg 447,24,739,301,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00582.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01655.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00363.jpg 603,243,645,320,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00076.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00580.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00334.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01257.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00372.jpg 214,112,278,230,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00942.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00448.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01773.jpg 347,151,669,261,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03558.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00244.jpg 653,0,1030,374,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00496.jpg 570,258,613,301,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01637.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00756.jpg 299,300,470,446,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00165.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00943.jpg 716,658,834,718,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03100.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03302.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00479.jpg 294,238,433,339,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00540.jpg 408,512,784,719,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00693.jpg 827,180,1040,459,1 1096,56,1529,536,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00358.jpg 296,214,330,260,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00735.jpg 514,353,695,596,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00190.jpg 454,196,642,431,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_01144.jpg 665,572,1134,719,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00522.jpg 404,557,785,719,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00412.jpg 725,570,990,719,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00309.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00116.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00614.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02686.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00416.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00764.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00097.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00487.jpg 1227,3,1632,545,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00485.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00383.jpg 429,161,649,432,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00039.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00149.jpg 424,269,547,427,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00545.jpg 350,280,702,584,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00372.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00672.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02693.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00602.jpg 470,333,525,426,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01712.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00571.jpg 652,476,941,715,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01561.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01185.jpg 373,139,742,255,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00257.jpg 225,226,292,290,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01630.jpg 418,156,693,272,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00725.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00096.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00431.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01110.jpg 363,69,743,229,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00132.jpg 424,269,547,427,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01737.jpg 362,56,648,260,1 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00598.jpg 152,31,487,428,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00743.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00280.jpg 2,31,436,473,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00615.jpg 470,333,525,426,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01875.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00085.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00057.jpg 346,343,663,604,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00764.jpg 496,231,695,564,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00097.jpg 485,295,800,617,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00847.jpg 124,24,303,330,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00947.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00689.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02653.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00276.jpg 112,205,395,336,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00483.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00116.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00119.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00212.jpg 584,290,901,472,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00551.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00703.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00344.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00008.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00300.jpg 471,144,730,259,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00888.jpg 1137,48,1410,495,1 1446,24,1910,552,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00034.jpg 472,333,528,423,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00621.jpg 444,26,744,316,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00130.jpg 424,289,539,423,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_01095.jpg 555,506,959,716,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03233.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00667.jpg 756,195,1120,419,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03189.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02895.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00758.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00412.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00994.jpg 356,122,740,250,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00161.jpg 323,219,373,275,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00807.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00017.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01247.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00162.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01368.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00599.jpg 444,26,744,316,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00614.jpg 444,26,744,316,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00110.jpg 644,279,962,428,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00086.jpg 473,363,531,426,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02375.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00152.jpg 488,196,630,368,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00827.jpg 564,130,741,320,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01034.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00574.jpg 743,272,1070,497,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00784.jpg 357,28,742,303,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03035.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00263.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00439.jpg 729,272,1048,453,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02424.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00909.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00340.jpg 467,173,678,626,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01396.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00608.jpg 424,466,538,575,1 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00558.jpg 151,32,494,419,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00097.jpg 815,0,1254,400,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_01147.jpg 665,572,1134,719,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00424.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00730.jpg 342,24,479,97,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00371.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00538.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00623.jpg 470,333,525,426,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00018.jpg 461,180,611,377,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02238.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00709.jpg 427,250,527,431,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00550.jpg 145,55,264,252,1 172,275,298,326,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00383.jpg 1795,278,1918,389,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00521.jpg 1185,5,1619,503,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00177.jpg 232,237,297,291,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00656.jpg 142,27,301,334,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00382.jpg 500,230,645,351,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03359.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00794.jpg 385,216,571,426,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00797.jpg 536,362,693,556,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00773.jpg 428,278,521,425,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00815.jpg 460,530,836,717,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00295.jpg 445,194,671,432,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00272.jpg 875,2,1231,341,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00351.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00383.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00236.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00443.jpg 545,584,947,715,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00123.jpg 473,186,630,375,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00064.jpg 471,338,531,424,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00219.jpg 584,290,901,472,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01481.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00153.jpg 454,196,642,431,1 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00252.jpg 3,96,436,473,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00343.jpg 433,124,703,264,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00456.jpg 729,272,1048,453,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01331.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00260.jpg 467,286,786,485,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00479.jpg 427,39,715,274,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01747.jpg 362,56,648,260,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00493.jpg 433,189,674,430,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00862.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01021.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00614.jpg 271,226,418,354,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02059.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00160.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00654.jpg 199,268,375,402,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00425.jpg 1669,95,1915,523,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00055.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01869.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01836.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00089.jpg 293,267,394,331,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00026.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00081.jpg 418,264,522,431,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00514.jpg 404,557,785,719,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01471.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00244.jpg 213,127,525,402,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00204.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01443.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00395.jpg 429,161,649,432,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01709.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00711.jpg 726,229,1038,455,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00164.jpg 217,185,265,235,1 287,305,310,341,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01129.jpg 395,132,742,224,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00062.jpg 471,338,531,424,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00007.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02290.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00369.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00220.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00237.jpg 213,127,525,402,1 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00011.jpg 260,97,548,390,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00010.jpg 422,249,512,428,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00068.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00591.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00266.jpg 475,189,632,374,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00761.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00542.jpg 470,358,526,420,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00540.jpg 439,286,655,583,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00024.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00106.jpg 473,363,531,426,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02636.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01905.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01816.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00208.jpg 231,86,530,393,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00116.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00717.jpg 152,26,331,339,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00887.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00891.jpg 914,655,1096,718,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00153.jpg 219,177,268,232,1 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00209.jpg 226,109,532,398,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00085.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00409.jpg 304,215,426,316,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01859.jpg 263,25,528,139,1 357,139,664,271,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00888.jpg 430,224,526,431,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01955.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00792.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00836.jpg 288,207,450,373,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01146.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00517.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00858.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00332.jpg 420,307,532,422,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00050.jpg 1011,3,1379,367,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00106.jpg 429,307,527,424,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00539.jpg 439,191,628,431,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00298.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01835.jpg 400,122,692,267,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00695.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00151.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00254.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00489.jpg 452,47,720,278,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00448.jpg 192,92,277,246,1 172,275,296,333,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00290.jpg 642,305,969,494,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00122.jpg 473,186,630,375,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01430.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00432.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00042.jpg 201,123,533,392,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00067.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00003.jpg 470,345,523,425,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00825.jpg 530,453,702,558,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02687.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00109.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00229.jpg 473,360,527,424,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00602.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02795.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02550.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01429.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00206.jpg 471,204,631,378,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01449.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00871.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01444.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02718.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_01069.jpg 610,562,1003,714,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00394.jpg 810,509,1084,718,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00953.jpg 707,644,866,718,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00575.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00360.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00355.jpg 657,518,924,718,1 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00325.jpg 3,87,450,477,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00720.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00591.jpg 497,234,681,569,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00627.jpg 304,533,737,717,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00355.jpg 483,117,700,611,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02211.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00303.jpg 453,236,702,689,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01943.jpg 455,69,699,321,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00381.jpg 851,258,1123,458,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01270.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00251.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02674.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00211.jpg 248,231,314,288,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00811.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00694.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00475.jpg 575,246,620,288,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01741.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00292.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01104.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00168.jpg 469,350,527,424,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00778.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00314.jpg 773,283,1078,465,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00893.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00725.jpg 291,281,463,439,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00261.jpg 532,150,732,617,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00112.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01320.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01157.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00922.jpg 779,620,924,718,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00252.jpg 209,174,262,226,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00095.jpg 137,229,220,283,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00040.jpg 451,195,620,439,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_02063.jpg 545,25,741,261,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02217.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00361.jpg 874,270,1120,464,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00481.jpg 162,130,271,246,1 192,277,290,331,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00931.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00681.jpg 420,244,531,424,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00264.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01036.jpg 345,132,744,275,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00029.jpg 451,195,620,439,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00482.jpg 469,345,526,422,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00499.jpg 570,258,613,301,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02246.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00889.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02424.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01459.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02504.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00531.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00682.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00593.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00686.jpg 822,627,973,717,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00464.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03030.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00760.jpg 704,168,896,491,1 970,25,1493,561,1 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00235.jpg 213,127,525,402,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00297.jpg 505,191,654,376,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00811.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_01148.jpg 665,572,1134,719,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02906.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00488.jpg 473,365,526,425,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00511.jpg 153,107,280,244,1 180,277,297,332,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01462.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01074.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00113.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00628.jpg 542,355,688,533,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01994.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01109.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01648.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01424.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00889.jpg 70,25,360,330,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00432.jpg 429,161,649,432,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00683.jpg 420,244,531,424,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00851.jpg 1054,129,1298,496,1 1340,78,1820,571,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00290.jpg 555,445,803,712,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00731.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00384.jpg 3,244,724,474,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00791.jpg 299,300,470,446,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00581.jpg 970,305,1133,552,1 1267,30,1722,640,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00210.jpg 543,4,984,499,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00359.jpg 113,121,303,320,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00866.jpg 468,304,523,422,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00883.jpg 430,251,535,426,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00824.jpg 94,26,295,324,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00263.jpg 471,349,529,423,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00576.jpg 421,72,723,310,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00409.jpg 473,30,716,248,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00894.jpg 464,350,526,424,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00517.jpg 955,304,1125,501,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00926.jpg 750,665,870,719,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00234.jpg 653,0,1030,374,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02325.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02118.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00413.jpg 429,161,649,432,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02087.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00507.jpg 392,236,677,614,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02886.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00041.jpg 422,246,522,426,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00334.jpg 112,205,395,336,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00175.jpg 555,145,783,608,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00259.jpg 516,521,768,718,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00892.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00429.jpg 300,211,419,332,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03209.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00141.jpg 555,145,783,608,1 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00593.jpg 152,31,487,428,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00497.jpg 433,189,674,430,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00870.jpg 184,230,337,386,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00005.jpg 472,221,619,353,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00629.jpg 239,222,416,377,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03428.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00667.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00066.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00885.jpg 430,251,535,426,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01068.jpg 337,127,741,236,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01181.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01251.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00516.jpg 1185,5,1619,503,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00029.jpg 439,354,715,622,1 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00462.jpg 150,45,495,421,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00472.jpg 294,238,433,339,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00121.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00151.jpg 425,253,560,427,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00233.jpg 517,245,826,437,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02564.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00720.jpg 406,228,564,430,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00000.jpg 453,183,685,619,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00392.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00506.jpg 161,88,516,432,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00762.jpg 654,149,950,457,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01867.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00344.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01471.jpg 447,167,741,289,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00341.jpg 471,346,529,422,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00758.jpg 425,252,527,426,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00871.jpg 551,455,705,547,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01254.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00756.jpg 680,172,954,464,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00127.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00652.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00404.jpg 472,333,526,420,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01378.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00355.jpg 433,93,702,273,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02451.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02301.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00460.jpg 469,345,526,422,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02010.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01854.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03254.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01361.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00858.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00488.jpg 530,541,910,717,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01124.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00346.jpg 433,124,703,264,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02539.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00537.jpg 849,252,1120,476,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00317.jpg 496,248,592,340,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00285.jpg 471,349,529,423,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00019.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00504.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01172.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00691.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00386.jpg 480,146,705,614,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00412.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00244.jpg 516,521,768,718,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00690.jpg 468,325,524,423,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02622.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02387.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03286.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01256.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00819.jpg 94,26,295,324,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03446.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01772.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00638.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00054.jpg 910,253,1121,479,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00848.jpg 557,458,694,533,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00602.jpg 261,196,438,339,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00796.jpg 467,341,524,424,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00297.jpg 471,349,529,423,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00465.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00821.jpg 509,312,701,543,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00601.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01362.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01296.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00299.jpg 220,167,277,241,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00351.jpg 433,93,702,273,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00206.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00538.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00694.jpg 290,290,442,431,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00014.jpg 472,233,609,422,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00553.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00702.jpg 291,281,463,439,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00762.jpg 152,26,331,339,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00829.jpg 397,31,740,294,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00735.jpg 713,226,1030,474,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02698.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00300.jpg 453,236,702,689,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00493.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00699.jpg 715,229,1032,461,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01103.jpg 356,97,744,228,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01021.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01738.jpg 362,56,648,260,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00139.jpg 285,85,384,146,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00316.jpg 445,194,671,432,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00676.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00816.jpg 509,312,701,543,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00354.jpg 213,132,281,240,1 240,277,303,310,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00371.jpg 429,161,649,432,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00722.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00345.jpg 467,173,678,626,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00115.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03493.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00797.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03103.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00056.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02240.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00756.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01359.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00885.jpg 106,247,285,391,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00728.jpg 152,26,331,339,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00755.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00469.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00282.jpg 430,312,535,428,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00739.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01334.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00246.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02699.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00923.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01325.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00125.jpg 290,114,354,164,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00188.jpg 469,350,527,424,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00046.jpg 437,209,630,367,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01328.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00718.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00241.jpg 213,127,525,402,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00680.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00326.jpg 1340,2,1731,505,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00713.jpg 406,228,564,430,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00908.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00798.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00691.jpg 420,244,531,424,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00426.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00826.jpg 397,31,740,294,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02325.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01868.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00776.jpg 357,28,742,303,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00505.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00493.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00577.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00869.jpg 430,251,535,426,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00773.jpg 357,28,742,303,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03058.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00030.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00611.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00400.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00183.jpg 454,196,642,431,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03047.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00734.jpg 152,26,331,339,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00791.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00590.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00096.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00940.jpg 716,658,834,718,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00604.jpg 470,333,525,426,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00734.jpg 473,332,526,426,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00110.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00838.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00515.jpg 392,270,640,603,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00467.jpg 439,65,714,268,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00741.jpg 414,197,574,428,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00619.jpg 122,55,282,317,1 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00544.jpg 134,10,494,423,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00247.jpg 209,174,262,226,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00543.jpg 122,98,274,245,1 172,273,311,334,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00058.jpg 437,209,630,367,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03195.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00116.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00177.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00566.jpg 1262,113,1670,678,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00654.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01134.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00600.jpg 705,435,1167,715,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02250.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00856.jpg 1095,118,1368,497,1 1391,92,1858,581,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03027.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02033.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00878.jpg 494,177,653,382,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02659.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00712.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00664.jpg 494,587,875,718,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00730.jpg 739,199,1063,476,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00860.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00017.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03068.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01917.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00229.jpg 520,23,756,628,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00151.jpg 488,196,630,368,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00938.jpg 370,104,740,284,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00892.jpg 1137,48,1410,495,1 1446,24,1910,552,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00569.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00087.jpg 471,221,619,374,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01154.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00551.jpg 221,182,392,327,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00671.jpg 407,236,606,448,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00395.jpg 428,260,546,428,1 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00356.jpg 4,6,436,476,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01384.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02070.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00966.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00131.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01305.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00342.jpg 1452,2,1899,478,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00042.jpg 437,209,630,367,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00324.jpg 471,346,529,422,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00029.jpg 484,165,742,627,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00441.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00457.jpg 434,60,707,259,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00945.jpg 716,658,834,718,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00857.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_02061.jpg 562,37,740,245,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00031.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00862.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00246.jpg 732,1,1080,321,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00495.jpg 428,291,686,619,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00430.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01042.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00590.jpg 732,244,1018,489,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00855.jpg 818,463,1278,715,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02670.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00482.jpg 294,238,433,339,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00114.jpg 626,251,978,411,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00142.jpg 828,5,1128,425,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_01125.jpg 857,549,1147,718,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00871.jpg 71,24,327,330,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00258.jpg 475,189,632,374,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00791.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02011.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01997.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00576.jpg 261,196,438,339,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01331.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00024.jpg 437,353,723,607,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00013.jpg 482,364,798,644,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00493.jpg 429,238,527,425,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00262.jpg 467,286,786,485,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00280.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02228.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00638.jpg 437,191,623,439,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00600.jpg 122,55,282,317,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00851.jpg 271,214,435,360,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00640.jpg 932,181,1205,553,1 1313,37,1749,604,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01094.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01469.jpg 447,167,741,289,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00313.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00438.jpg 729,272,1048,453,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00550.jpg 1161,106,1650,638,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00573.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00289.jpg 265,227,319,270,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01143.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00192.jpg 454,196,642,431,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01879.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00404.jpg 473,30,716,248,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00670.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00799.jpg 536,362,693,556,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00857.jpg 469,352,523,421,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00838.jpg 410,215,568,426,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00057.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00205.jpg 198,167,255,235,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01448.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01610.jpg 418,156,693,272,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00338.jpg 536,441,794,703,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01192.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00196.jpg 302,267,363,303,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00333.jpg 841,283,1120,468,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00775.jpg 470,353,526,423,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00662.jpg 432,27,737,296,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01006.jpg 392,76,741,257,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00286.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00670.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00047.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00397.jpg 207,131,268,231,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00815.jpg 385,216,571,426,1 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00313.jpg 2,34,438,474,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00746.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00103.jpg 815,0,1254,400,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00008.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00358.jpg 469,326,526,422,1 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00332.jpg 3,63,440,472,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00690.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03362.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00940.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00652.jpg 778,153,1118,394,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00580.jpg 509,247,567,289,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00227.jpg 517,245,826,437,1 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00395.jpg 3,244,724,474,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02397.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00795.jpg 536,362,693,556,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00521.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00618.jpg 470,333,525,426,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00466.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00045.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01741.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00288.jpg 544,503,800,714,1 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00304.jpg 2,34,438,474,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00458.jpg 472,333,526,420,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00268.jpg 643,327,716,372,1 109,198,404,345,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00427.jpg 577,550,952,716,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00429.jpg 287,66,674,634,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00059.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00359.jpg 716,517,1053,716,1 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00068.jpg 212,128,536,391,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02042.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00632.jpg 468,349,527,422,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00628.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00049.jpg 346,343,663,604,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00368.jpg 111,107,193,363,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00290.jpg 445,194,671,432,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00080.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00661.jpg 431,297,535,428,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00766.jpg 299,300,470,446,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00287.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00473.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00442.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00607.jpg 754,203,1032,430,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00764.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00172.jpg 232,237,297,291,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03441.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00325.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01893.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00688.jpg 142,27,301,334,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00458.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02096.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01280.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01500.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00620.jpg 437,191,623,439,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00062.jpg 252,376,355,460,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00435.jpg 472,333,526,420,1 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00620.jpg 148,24,486,422,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02693.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00341.jpg 841,283,1120,468,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02289.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00111.jpg 539,362,821,623,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00401.jpg 785,523,1069,719,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00550.jpg 812,256,1101,484,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00686.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00270.jpg 875,2,1231,341,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00623.jpg 492,229,647,512,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01952.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03082.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00048.jpg 252,376,355,460,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00563.jpg 780,276,1099,499,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02252.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01928.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00055.jpg 346,343,663,604,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00714.jpg 473,585,858,717,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01122.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00996.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00087.jpg 313,306,390,370,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00841.jpg 1054,129,1298,496,1 1340,78,1820,571,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00425.jpg 517,303,563,359,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00707.jpg 427,250,527,431,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00156.jpg 454,196,642,431,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00651.jpg 199,281,356,404,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00492.jpg 429,238,527,425,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00325.jpg 112,205,395,336,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02673.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_01089.jpg 555,506,959,716,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00252.jpg 465,216,542,301,1 117,213,399,338,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00625.jpg 437,191,623,439,1 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00345.jpg 2,82,439,478,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00419.jpg 577,550,952,716,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00756.jpg 473,332,526,426,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01848.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00723.jpg 484,372,725,604,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01165.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01848.jpg 348,70,658,271,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00001.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01657.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00833.jpg 467,341,524,424,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00881.jpg 415,28,741,312,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00636.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00604.jpg 122,55,282,317,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00433.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00192.jpg 302,267,363,303,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00328.jpg 417,141,704,268,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00599.jpg 433,260,539,430,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00802.jpg 400,580,789,719,1 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00321.jpg 3,87,450,477,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02625.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00496.jpg 272,248,422,349,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00738.jpg 514,353,695,596,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00044.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00367.jpg 214,112,278,230,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00393.jpg 829,279,1124,459,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00257.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01371.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00969.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00799.jpg 357,28,742,303,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00118.jpg 523,345,816,644,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00489.jpg 294,238,433,339,1 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00493.jpg 128,58,477,422,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00459.jpg 287,220,661,639,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00833.jpg 548,348,687,537,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00700.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00675.jpg 727,262,1067,476,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00559.jpg 471,347,523,422,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00018.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00403.jpg 751,533,1031,719,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00147.jpg 670,479,962,717,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00446.jpg 407,56,690,253,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00717.jpg 431,238,541,427,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01090.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00272.jpg 2,31,436,473,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01302.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00702.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02747.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02094.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00515.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00061.jpg 212,128,536,391,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00621.jpg 271,226,418,354,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00871.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00903.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00629.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00380.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01928.jpg 415,183,509,238,1 516,82,706,248,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00621.jpg 470,333,525,426,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01531.jpg 362,155,597,251,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00795.jpg 358,557,759,717,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01184.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00862.jpg 551,455,705,547,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01684.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00662.jpg 326,251,616,517,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00783.jpg 357,28,742,303,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00183.jpg 232,237,297,291,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00331.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00657.jpg 405,157,673,485,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00042.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00465.jpg 294,238,433,339,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00395.jpg 457,58,707,254,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00822.jpg 430,252,526,433,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00402.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01145.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00419.jpg 189,127,272,236,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00420.jpg 350,87,671,613,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00238.jpg 335,183,409,224,1 149,239,412,331,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00817.jpg 94,26,295,324,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02449.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00396.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00395.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01211.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00450.jpg 294,238,433,339,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00606.jpg 444,26,744,316,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00233.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01930.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01529.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00476.jpg 467,321,683,620,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02637.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00625.jpg 932,181,1205,553,1 1313,37,1749,604,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00455.jpg 1364,23,1767,515,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00593.jpg 429,275,539,425,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01467.jpg 447,167,741,289,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00776.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00569.jpg 1262,113,1670,678,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00590.jpg 705,435,1167,715,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02617.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00706.jpg 447,24,739,301,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00658.jpg 778,153,1118,394,1 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00393.jpg 3,244,724,474,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00688.jpg 533,326,704,617,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00448.jpg 729,272,1048,453,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01000.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00862.jpg 232,211,410,353,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00685.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01341.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00309.jpg 1113,2,1600,416,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00735.jpg 406,228,564,430,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01908.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00841.jpg 410,215,568,426,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00242.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00140.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00329.jpg 417,141,704,268,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00044.jpg 472,333,528,423,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00280.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00337.jpg 420,307,532,422,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00464.jpg 433,189,674,430,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00049.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00445.jpg 139,19,496,420,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01592.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00244.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00195.jpg 239,238,307,293,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00670.jpg 244,272,431,406,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00352.jpg 420,307,532,422,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00381.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00175.jpg 232,237,297,291,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01669.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00457.jpg 433,189,674,430,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03123.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00847.jpg 557,458,694,533,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00529.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00533.jpg 471,319,525,424,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00525.jpg 433,189,674,430,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02700.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00850.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00175.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00585.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02092.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00094.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00320.jpg 417,141,704,268,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00253.jpg 432,256,537,425,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00456.jpg 294,238,433,339,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00010.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00009.jpg 445,93,736,643,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00125.jpg 454,196,642,431,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00906.jpg 50,255,234,403,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01146.jpg 395,132,742,224,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00943.jpg 370,104,740,284,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00538.jpg 122,98,274,245,1 172,273,311,334,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00101.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00558.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00769.jpg 470,353,526,423,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00764.jpg 470,353,526,423,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00833.jpg 397,31,740,294,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00614.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00334.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00648.jpg 432,255,548,426,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00221.jpg 524,198,765,618,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00812.jpg 430,252,526,433,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00818.jpg 410,215,568,426,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00049.jpg 437,209,630,367,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00685.jpg 468,325,524,423,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02300.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00519.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00540.jpg 399,32,703,294,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00085.jpg 312,319,390,383,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00733.jpg 373,29,539,116,1 118,299,198,456,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00100.jpg 471,221,619,374,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00521.jpg 945,282,1123,485,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00872.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_01101.jpg 689,517,1028,718,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00449.jpg 429,161,649,432,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01688.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00802.jpg 321,307,482,445,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00736.jpg 514,353,695,596,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00814.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02273.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00240.jpg 225,226,292,290,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00113.jpg 469,350,527,424,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01524.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01517.jpg 382,155,710,302,1 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00112.jpg 218,137,539,391,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00586.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01107.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00366.jpg 419,125,710,270,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00625.jpg 432,246,526,427,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00300.jpg 555,445,803,712,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00520.jpg 570,258,613,301,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00054.jpg 432,214,517,431,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00261.jpg 587,146,745,236,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00687.jpg 420,244,531,424,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00775.jpg 755,183,1003,483,1 1036,130,1461,541,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00118.jpg 473,186,630,375,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00124.jpg 454,196,642,431,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00104.jpg 529,341,816,588,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01225.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00710.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00569.jpg 145,55,264,252,1 172,275,298,326,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02090.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00411.jpg 3,200,284,468,1 409,277,696,474,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00182.jpg 217,185,265,235,1 287,305,310,341,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00924.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00348.jpg 445,194,671,432,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00129.jpg 424,289,539,423,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00864.jpg 382,26,741,285,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00538.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01899.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00047.jpg 472,352,524,423,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00561.jpg 471,347,523,422,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01745.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00320.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01325.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00395.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00796.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00601.jpg 705,435,1167,715,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00301.jpg 689,309,1007,488,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03121.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00796.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00633.jpg 304,533,737,717,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00684.jpg 768,589,942,717,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_02057.jpg 562,37,740,245,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00274.jpg 927,0,1278,382,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00261.jpg 453,198,678,434,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00052.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00438.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00085.jpg 558,98,797,607,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00275.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01115.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00267.jpg 568,128,742,235,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00069.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00447.jpg 423,296,552,423,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00032.jpg 432,204,628,349,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00556.jpg 221,182,392,327,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00271.jpg 475,189,632,374,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00299.jpg 1065,4,1532,447,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00531.jpg 1238,7,1640,577,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00013.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02666.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00387.jpg 415,297,545,423,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02583.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00436.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01725.jpg 330,77,634,284,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00447.jpg 294,238,433,339,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00636.jpg 206,242,373,397,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00289.jpg 458,117,685,678,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00682.jpg 853,147,1121,483,1 1186,9,1634,547,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00242.jpg 471,349,529,423,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00617.jpg 728,219,1006,420,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00523.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01097.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00109.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00413.jpg 396,2,688,614,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00265.jpg 498,296,795,487,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00078.jpg 452,207,630,433,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00009.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01556.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00767.jpg 496,231,695,564,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01079.jpg 337,127,741,236,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01363.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00430.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00612.jpg 399,518,897,718,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00759.jpg 473,332,526,426,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00003.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00217.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00179.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00066.jpg 252,376,355,460,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00475.jpg 1209,53,1663,523,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00630.jpg 142,27,301,334,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00010.jpg 263,394,352,456,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00614.jpg 467,171,633,428,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00947.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01086.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00883.jpg 704,558,1111,717,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00751.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00742.jpg 343,84,727,297,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01552.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00991.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00305.jpg 555,445,803,712,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00275.jpg 559,316,866,509,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00307.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00130.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00007.jpg 239,418,348,458,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01030.jpg 345,132,744,275,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00316.jpg 527,130,701,650,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00697.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00187.jpg 430,297,543,431,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00884.jpg 704,558,1111,717,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00239.jpg 516,521,768,718,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00957.jpg 380,94,740,286,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00907.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00041.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00050.jpg 472,352,524,423,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00254.jpg 471,349,529,423,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00130.jpg 473,186,630,375,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02510.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00886.jpg 549,382,705,536,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00047.jpg 272,381,369,459,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01392.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00338.jpg 112,205,395,336,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00016.jpg 1017,2,1484,367,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00585.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00096.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01949.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00020.jpg 445,93,736,643,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00186.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00577.jpg 444,190,639,428,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00589.jpg 732,244,1018,489,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00804.jpg 464,321,688,548,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00964.jpg 703,590,867,718,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00137.jpg 568,468,906,719,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00635.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01362.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01412.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00122.jpg 469,350,527,424,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00147.jpg 424,269,547,427,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00333.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00186.jpg 555,145,783,608,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00861.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00572.jpg 180,79,514,423,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00318.jpg 425,274,514,426,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00471.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00594.jpg 444,26,744,316,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01579.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00571.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00799.jpg 467,341,524,424,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00701.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00531.jpg 408,512,784,719,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00553.jpg 424,26,716,296,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00253.jpg 225,226,292,290,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00188.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00642.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00873.jpg 494,177,653,382,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00231.jpg 150,230,416,331,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00766.jpg 357,28,742,303,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00030.jpg 484,165,742,627,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02591.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00390.jpg 429,161,649,432,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00546.jpg 439,191,628,431,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01292.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00307.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00350.jpg 433,93,702,273,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00060.jpg 1012,1,1297,379,1 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00047.jpg 256,122,543,390,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01507.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01241.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00382.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01925.jpg 406,109,703,251,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00429.jpg 472,333,526,420,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00778.jpg 755,183,1003,483,1 1036,130,1461,541,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02762.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00906.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00501.jpg 433,189,674,430,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00462.jpg 575,246,620,288,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03417.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00652.jpg 199,281,356,404,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03280.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01512.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00519.jpg 1185,5,1619,503,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00321.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00774.jpg 496,231,695,564,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00576.jpg 743,272,1070,497,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01975.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00143.jpg 469,350,527,424,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00007.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_01027.jpg 566,552,964,717,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01313.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00566.jpg 471,347,523,422,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00303.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00346.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00866.jpg 1095,118,1368,497,1 1391,92,1858,581,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02141.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00435.jpg 375,219,657,639,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00347.jpg 420,307,532,422,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00844.jpg 382,26,741,285,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00312.jpg 220,167,277,241,1 225,271,292,308,1 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00028.jpg 259,96,539,390,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00128.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00018.jpg 445,93,736,643,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00121.jpg 473,186,630,375,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00230.jpg 473,360,527,424,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00191.jpg 430,297,543,431,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00797.jpg 885,186,1096,481,1 1146,92,1631,555,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02919.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00690.jpg 408,209,585,444,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02413.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00160.jpg 624,255,874,439,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00609.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00760.jpg 372,228,579,426,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00459.jpg 530,541,910,717,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_01121.jpg 857,549,1147,718,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00416.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03547.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00378.jpg 3,33,435,474,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00206.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00332.jpg 527,130,701,650,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00820.jpg 397,31,740,294,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01387.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00793.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00336.jpg 1456,0,1834,503,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00440.jpg 545,584,947,715,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00681.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00716.jpg 114,90,184,240,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00250.jpg 732,1,1080,321,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00515.jpg 955,304,1125,501,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00676.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00540.jpg 1174,8,1673,604,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00483.jpg 1227,3,1632,545,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00016.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00041.jpg 201,123,533,392,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00531.jpg 471,319,525,424,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00313.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00053.jpg 472,352,524,423,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00701.jpg 427,250,527,431,1 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00574.jpg 183,58,518,416,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00543.jpg 350,280,702,584,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01899.jpg 393,124,662,262,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01474.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00931.jpg 370,104,740,284,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00097.jpg 249,146,320,204,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00552.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00209.jpg 426,315,541,426,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01106.jpg 363,69,743,229,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00616.jpg 122,55,282,317,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00407.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00521.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01632.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02086.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02423.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00402.jpg 501,32,676,627,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00015.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00116.jpg 473,186,630,375,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00469.jpg 294,238,433,339,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00570.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02082.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02049.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02473.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00009.jpg 470,345,523,425,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00301.jpg 471,144,730,259,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00849.jpg 124,24,303,330,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00697.jpg 822,585,1038,719,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00941.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01250.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00526.jpg 392,270,640,603,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00608.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00072.jpg 475,349,573,421,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00581.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00955.jpg 707,644,866,718,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00605.jpg 456,448,552,573,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00522.jpg 409,265,519,428,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00367.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00101.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01890.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00465.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01774.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00729.jpg 473,332,526,426,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01553.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00156.jpg 469,350,527,424,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00584.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00443.jpg 1425,1,1902,531,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00271.jpg 209,167,270,239,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01791.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00582.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00745.jpg 414,197,574,428,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01726.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00205.jpg 675,446,950,711,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00150.jpg 316,159,378,222,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02918.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00765.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03182.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03356.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00859.jpg 382,26,741,285,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02108.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00718.jpg 291,281,463,439,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00294.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00620.jpg 271,226,418,354,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00787.jpg 424,250,542,426,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00262.jpg 532,150,732,617,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00124.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00642.jpg 518,130,656,402,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03251.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00342.jpg 2,115,441,478,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00385.jpg 282,220,378,290,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00152.jpg 316,173,381,237,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02282.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01465.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01337.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00106.jpg 149,238,204,299,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00344.jpg 112,205,395,336,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00676.jpg 528,225,707,578,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00540.jpg 269,181,411,325,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00214.jpg 584,290,901,472,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00840.jpg 1020,160,1249,483,1 1289,106,1781,585,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00873.jpg 551,387,695,536,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_01026.jpg 566,552,964,717,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02248.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00281.jpg 242,216,306,273,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01299.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00505.jpg 161,88,516,432,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01699.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00682.jpg 564,584,940,717,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00391.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01957.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00220.jpg 556,267,841,449,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00118.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00482.jpg 162,130,271,246,1 192,277,290,331,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00032.jpg 484,165,742,627,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00102.jpg 473,186,630,375,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_01124.jpg 857,549,1147,718,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00520.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01858.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00300.jpg 471,349,529,423,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01501.jpg 382,155,710,302,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01431.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00324.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00417.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00696.jpg 290,290,442,431,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00178.jpg 555,145,783,608,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02805.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00025.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_01160.jpg 694,415,977,672,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00657.jpg 468,337,527,423,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02593.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00507.jpg 272,245,420,356,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00867.jpg 494,177,653,382,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00420.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00560.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00574.jpg 421,72,723,310,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01748.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00767.jpg 299,300,470,446,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01023.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00161.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00085.jpg 978,0,1287,390,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00453.jpg 729,272,1048,453,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00655.jpg 468,337,527,423,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00802.jpg 885,186,1096,481,1 1146,92,1631,555,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00591.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03034.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00536.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00349.jpg 213,132,281,240,1 240,277,303,310,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00310.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00241.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00638.jpg 431,243,524,427,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00307.jpg 453,236,702,689,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00499.jpg 467,324,526,423,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00677.jpg 432,27,737,296,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01481.jpg 430,147,745,295,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00006.jpg 1017,2,1484,367,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00671.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00726.jpg 482,310,732,605,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00198.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00093.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00612.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00773.jpg 755,183,1003,483,1 1036,130,1461,541,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00387.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00361.jpg 429,161,649,432,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00659.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00011.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00509.jpg 1185,5,1619,503,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00001.jpg 453,183,685,619,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00832.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00002.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00452.jpg 729,272,1048,453,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00110.jpg 563,222,787,613,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00703.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00115.jpg 423,262,520,426,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01797.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00692.jpg 142,27,301,334,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00247.jpg 516,521,768,718,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00109.jpg 273,121,367,175,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00642.jpg 369,561,767,719,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00635.jpg 304,533,737,717,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01347.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00311.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01612.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00820.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00410.jpg 431,296,557,431,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02164.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_01145.jpg 665,572,1134,719,1 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00142.jpg 222,132,537,401,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00919.jpg 401,107,741,292,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00007.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01547.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00471.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00232.jpg 475,218,632,376,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01690.jpg 375,81,670,254,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00099.jpg 429,307,527,424,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01460.jpg 488,118,743,275,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01919.jpg 406,109,703,251,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00492.jpg 1185,5,1619,503,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00626.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00324.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02684.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00920.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02310.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00055.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00521.jpg 374,50,695,288,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00449.jpg 530,541,910,717,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00277.jpg 242,216,306,273,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02869.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00298.jpg 277,233,339,262,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01683.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00371.jpg 419,125,710,270,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00280.jpg 242,216,306,273,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00007.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00667.jpg 494,587,875,718,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00199.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00674.jpg 467,347,528,426,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00529.jpg 471,362,523,427,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01396.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01838.jpg 383,82,659,312,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00753.jpg 299,300,470,446,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00447.jpg 407,56,690,253,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00574.jpg 1227,147,1674,625,1 993,394,1131,603,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00321.jpg 1222,2,1714,424,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00904.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00820.jpg 958,164,1179,468,1 1228,79,1735,541,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00092.jpg 137,229,220,283,1 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00419.jpg 1,110,200,462,1 550,320,772,477,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00995.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00179.jpg 232,237,297,291,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01011.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00392.jpg 438,76,716,265,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00136.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00850.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00301.jpg 2,34,438,474,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00597.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00017.jpg 243,131,543,397,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00084.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03200.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01167.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_01086.jpg 555,506,959,716,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00715.jpg 152,26,331,339,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00765.jpg 358,557,759,717,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00523.jpg 409,265,519,428,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00048.jpg 346,343,663,604,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00505.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00029.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00594.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00588.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01430.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01183.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00406.jpg 3,244,724,474,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00067.jpg 437,209,630,367,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00432.jpg 430,282,541,423,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00044.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00226.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00047.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00966.jpg 703,590,867,718,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00297.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00412.jpg 406,58,686,624,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00345.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00159.jpg 219,177,268,232,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00881.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00404.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00165.jpg 217,185,265,235,1 287,305,310,341,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00202.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00197.jpg 198,167,255,235,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00603.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01875.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00157.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00833.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00548.jpg 350,280,702,584,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00810.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02003.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00872.jpg 551,455,705,547,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01820.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00255.jpg 472,253,589,320,1 121,234,412,339,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00932.jpg 750,665,870,719,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00727.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00490.jpg 161,72,495,429,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01663.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00409.jpg 431,296,557,431,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00648.jpg 468,337,527,423,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00493.jpg 922,283,1123,491,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00414.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00450.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00690.jpg 290,290,442,431,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01351.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00399.jpg 428,260,546,428,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00271.jpg 516,521,768,718,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00501.jpg 469,347,529,422,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02596.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00290.jpg 471,144,730,259,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02682.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00450.jpg 374,325,655,639,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00149.jpg 607,239,926,425,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02821.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00273.jpg 242,216,306,273,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00245.jpg 469,304,778,477,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00270.jpg 209,167,270,239,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00084.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02270.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00240.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00474.jpg 530,541,910,717,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00478.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00652.jpg 419,238,634,447,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00019.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00503.jpg 409,28,710,285,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00539.jpg 269,181,411,325,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02478.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00308.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00419.jpg 300,211,419,332,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01321.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00438.jpg 472,333,526,420,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02917.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02430.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00590.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02305.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00846.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00563.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00017.jpg 445,93,736,643,1 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00560.jpg 160,11,506,428,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00256.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01881.jpg 404,59,540,169,1 359,169,673,264,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00843.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00891.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01300.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00836.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02622.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03401.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00399.jpg 457,58,707,254,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01312.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02102.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00302.jpg 505,254,633,380,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01002.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00562.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02044.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02456.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00476.jpg 1209,53,1663,523,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00724.jpg 479,53,741,302,1 362,178,430,234,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01461.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_01024.jpg 582,567,935,718,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00330.jpg 212,150,275,227,1 221,273,304,299,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00140.jpg 424,269,547,427,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02828.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00485.jpg 433,189,674,430,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01694.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01401.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02026.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00868.jpg 494,177,653,382,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00778.jpg 496,231,695,564,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00766.jpg 704,168,896,491,1 970,25,1493,561,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01258.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00375.jpg 521,114,721,618,1 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00170.jpg 176,139,532,397,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00224.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01705.jpg 320,119,677,251,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00012.jpg 461,180,611,377,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02462.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00269.jpg 471,349,529,423,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00587.jpg 444,190,639,428,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00805.jpg 429,257,563,428,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02079.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00421.jpg 429,161,649,432,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01781.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01116.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00197.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00143.jpg 488,196,630,368,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02278.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00243.jpg 471,349,529,423,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00821.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00136.jpg 553,428,886,705,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02101.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00104.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01560.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00348.jpg 841,283,1120,468,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00818.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00081.jpg 301,346,400,428,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02764.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00927.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00398.jpg 312,223,402,299,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00799.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03057.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02630.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00963.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02171.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00517.jpg 140,40,496,428,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01382.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00744.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00589.jpg 122,55,282,317,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_01048.jpg 566,552,964,717,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00737.jpg 299,300,470,446,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03504.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00503.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03374.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00710.jpg 726,229,1038,455,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01731.jpg 330,77,634,284,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00162.jpg 730,1,1109,441,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00205.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00178.jpg 176,139,532,397,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01894.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00490.jpg 428,261,552,422,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00096.jpg 454,196,642,431,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02027.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00348.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02822.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00314.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01501.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01406.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02897.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00451.jpg 433,189,674,430,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02216.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00203.jpg 471,204,631,378,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02475.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03267.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00730.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00134.jpg 454,196,642,431,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00032.jpg 272,381,369,459,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00819.jpg 430,252,526,433,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00024.jpg 463,231,607,434,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00700.jpg 426,215,705,603,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00221.jpg 543,4,984,499,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00504.jpg 272,245,420,356,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00143.jpg 174,225,250,291,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00858.jpg 430,251,535,426,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01698.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00177.jpg 217,185,265,235,1 287,305,310,341,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00327.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00368.jpg 419,125,710,270,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00817.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00426.jpg 729,272,1048,453,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01046.jpg 323,120,742,280,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00160.jpg 323,219,373,275,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00362.jpg 469,326,526,422,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00837.jpg 467,341,524,424,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00269.jpg 475,189,632,374,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00274.jpg 471,349,529,423,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00285.jpg 458,117,685,678,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00641.jpg 932,181,1205,553,1 1313,37,1749,604,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00035.jpg 451,195,620,439,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01330.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00805.jpg 400,580,789,719,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01858.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00352.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00786.jpg 358,557,759,717,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00358.jpg 213,132,281,240,1 240,277,303,310,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00134.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00079.jpg 978,0,1287,390,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00081.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00693.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00042.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00053.jpg 910,253,1121,479,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00288.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02927.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00012.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00294.jpg 642,305,969,494,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00092.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00028.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00285.jpg 2,31,436,473,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01169.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00135.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00790.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00021.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02065.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02189.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00654.jpg 778,153,1118,394,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00095.jpg 652,266,984,431,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00575.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00067.jpg 1,213,66,294,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_01056.jpg 610,562,1003,714,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01937.jpg 525,59,686,314,1 431,184,529,237,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02422.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03000.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01676.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01164.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00453.jpg 431,257,534,428,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00915.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00913.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00261.jpg 471,349,529,423,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02466.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00118.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFive_00544.jpg 409,253,535,425,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00731.jpg 406,228,564,430,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00360.jpg 469,326,526,422,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_01155.jpg 629,489,1037,717,1 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00138.jpg 199,123,531,391,1 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00512.jpg 157,67,505,428,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00040.jpg 472,333,528,423,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01817.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00864.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02095.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00695.jpg 526,219,711,611,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02349.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00133.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00144.jpg 174,225,250,291,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00712.jpg 726,229,1038,455,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02181.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00536.jpg 1238,7,1640,577,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02366.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00827.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02190.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00150.jpg 454,196,642,431,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00172.jpg 325,267,375,299,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00173.jpg 555,145,783,608,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00090.jpg 137,229,220,283,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00900.jpg 914,655,1096,718,1 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00399.jpg 480,146,705,614,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00466.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00564.jpg 1262,113,1670,678,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02657.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01883.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01205.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01872.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00243.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00686.jpg 853,147,1121,483,1 1186,9,1634,547,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02631.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00311.jpg 764,290,1031,473,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00682.jpg 441,52,742,305,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00574.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02358.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00281.jpg 445,194,671,432,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00278.jpg 471,349,529,423,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00374.jpg 846,475,1113,716,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01882.jpg 404,59,540,169,1 359,169,673,264,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01808.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00759.jpg 496,231,695,564,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01723.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00135.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03325.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00340.jpg 2,115,441,478,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00521.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00157.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02404.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00902.jpg 1137,48,1410,495,1 1446,24,1910,552,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02024.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02266.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02577.jpg 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_00837.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00785.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00631.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02106.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00203.jpg 198,167,255,235,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_03499.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00644.jpg 518,130,656,402,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training_00877.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00340.jpg 433,124,703,264,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00114.jpg 523,345,816,644,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_outside_00291.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00554.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_batteries_night_00199.jpg 445,1,878,712,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00497.jpg 142,55,281,247,1 179,283,284,337,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01012.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00128.jpg 147,226,220,292,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00235.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00410.jpg 1795,278,1918,389,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00676.jpg 432,27,737,296,1 
+/disk2/taekwang/fire_dataset/video_frame/CarOne_00492.jpg 128,58,477,422,1 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00425.jpg 300,211,419,332,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02664.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00628.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_car_00054.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseOne_00278.jpg 209,167,270,239,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02620.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_01219.jpg 524,39,743,359,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_02651.jpg 
+/disk2/taekwang/fire_dataset/video_frame/barbecue_00811.jpg 544,320,704,553,1 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00419.jpg 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00847.jpg 469,352,523,421,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00783.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02476.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00270.jpg 446,222,662,434,1 
+/disk2/taekwang/fire_dataset/video_frame/CarThree_00677.jpg 407,236,606,448,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01066.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00714.jpg 726,229,1038,455,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00844.jpg 818,463,1278,715,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00069.jpg 472,365,536,423,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_01839.jpg 
+/disk2/taekwang/fire_dataset/video_frame/case2_house_00652.jpg 932,181,1205,553,1 1313,37,1749,604,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00596.jpg 470,333,525,426,1 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_02187.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00570.jpg 519,233,613,305,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01364.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00820.jpg 
+/disk2/taekwang/fire_dataset/video_frame/CarTwo_00023.jpg 468,219,615,381,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_nasa_training2_00283.jpg 499,128,741,250,1 
+/disk2/taekwang/fire_dataset/video_frame/HouseFour_00028.jpg 470,345,523,425,1 
+/disk2/taekwang/fire_dataset/video_frame/coolerbot_01820.jpg 
+/disk2/taekwang/fire_dataset/video_frame/cleaner_00401.jpg 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_camera_wildfire_00105.jpg 644,279,962,428,1 
+/disk2/taekwang/fire_dataset/video_frame/hand_held_winnebago_00557.jpg 431,536,846,718,1 
