@@ -50,14 +50,14 @@ def main():
     parser.add_argument('--train_save_path', default='/home/taekwang0094/WorkSpace/FireTraining')
     parser.add_argument('--multi_gpus', default=True)
     parser.add_argument('--root', default='/home/taekwang0094/WorkSpace/Summer_Conference')
-    parser.add_argument('--channel_multiplier', default=True) # -l 추가해서 list로 받도록 수정할것
-    parser.add_argument('--batch_size', default=128)
+    parser.add_argument('--channel_multiplier', default=[1,1,1]) # -l 추가해서 list로 받도록 수정할것
+    parser.add_argument('--batch_size', default=256)
     parser.add_argument('--epoch', default=100)
 
     args = parser.parse_args()
     print(args.model)
 
-    channel_multiplier  = [3.0,1,1]
+    channel_multiplier  = args.channel_multiplier
 
     data_transforms = {
         'train': transforms.Compose([
@@ -80,12 +80,14 @@ def main():
         dataset.FireDataset(args.root, transforms=data_transforms['train'], channel_multiplier=channel_multiplier),
         batch_size=int(args.batch_size),
         shuffle=True,
+        num_workers=8,
 
     )
     val_loader = torch.utils.data.DataLoader(
         dataset.FireDataset(args.root, train='val',transforms=data_transforms['val'], channel_multiplier=channel_multiplier),
-        batch_size=1,
-        shuffle=False
+        batch_size=128,
+        shuffle=False,
+        num_workers=8,
     )
     if args.model == 'resnet18':
         model = resnet18()
@@ -110,7 +112,8 @@ def main():
 
     print("Training Start , model : ",args.model)
 
-    save_dir = args.model + "[{0},{1},{2}]".format(channel_multiplier[0],channel_multiplier[1],channel_multiplier[2])
+    save_dir = args.model + "_[{0},{1},{2}]".format(channel_multiplier[0],channel_multiplier[1],channel_multiplier[2])
+    #save_dir = os.path.join(args.model,'_[{0},{1},{2}]'.format(channel_multiplier[0],channel_multiplier[1],channel_multiplier[2]))
     save_dir_path = os.path.join(args.train_save_path,save_dir)
     if not os.path.exists(save_dir_path):
         os.makedirs(save_dir_path)
