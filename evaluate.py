@@ -40,24 +40,21 @@ print('학습을 진행하는 기기:',device)
 
 def main():
     parser = argparse.ArgumentParser(description='FireClassification')
-    parser.add_argument('--model', default='mobilenet_v2')
-    parser.add_argument('--train_save_path', default='/home/taekwang0094/WorkSpace/FireTraining')
+    parser.add_argument('--model', default='ghostnet')
+    parser.add_argument('--train_save_path', default='/home/taekwang0094/WorkSpace/FireTraining2')
     parser.add_argument('--multi_gpus', default=True)
     parser.add_argument('--root', default='/home/taekwang0094/WorkSpace/Summer_Conference')
-    parser.add_argument('--channel_multiplier', default=[1.3,1,1])  # -l 추가해서 list로 받도록 수정할것
+    parser.add_argument('--channel_multiplier', default=[3.0,1.0,1.0])  
     parser.add_argument('--batch_size', default=1)
     parser.add_argument('--epoch', default=100)
 
     args = parser.parse_args()
-    #checkpoint_path = '/home/taekwang0094/WorkSpace/FireTraining/shufflenet_v2_x1_0_no_channel_multiplier/model_best.pt'
-    #checkpoint_path = '/home/taekwang0094/WorkSpace/FireTraining/shufflenet_v2_x1_0_1.2/model_epoch77_0.0342.pt'
-    #checkpoint_path = '/home/taekwang0094/WorkSpace/FireTraining/mobilenet_v2_no_channel_multiplier/model_best.pt'
-    checkpoint_path = '/home/taekwang0094/WorkSpace/FireTraining/mobilenet_v2_1.2/model_best.pt'
-    #checkpoint_path = '/home/taekwang0094/WorkSpace/FireTraining/mobilenetv3_small_no_channel_multiplier/model_epoch75_0.0944.pt'
-    #checkpoint_path = '/home/taekwang0094/WorkSpace/FireTraining/mobilenetv3_small_1.2/model_best.pt'
+    
 
-    #checkpoint_path = '/home/taekwang0094/WorkSpace/FireTraining/ghostnet_no_channel_multiplier/model_best.pt'
-    #checkpoint_path = '/home/taekwang0094/WorkSpace/FireTraining/ghostnet_1.2/model_epoch98_0.0225.pt'
+    checkpoint_path = '/home/taekwang0094/WorkSpace/FireTraining2/{0}_[{1},{2},{3}]_2/model_best.pt'.format(args.model,
+                                                                                                         args.channel_multiplier[0],
+                                                                                                         args.channel_multiplier[1],
+                                                                                                         args.channel_multiplier[2])
 
     checkpoint = torch.load(checkpoint_path)
     if args.channel_multiplier is False:
@@ -116,9 +113,10 @@ def main():
         ]),
     }
     test_loader = torch.utils.data.DataLoader(
-        dataset.FireDataset(args.root, transforms=data_transforms['val'], train='test', channel_multiplier=channel_multiplier),
+        dataset.FireDataset(args.root, transforms=data_transforms['val'], train='test', channel_multiplier=channel_multiplier, ch_preprocess=True),
         batch_size=int(args.batch_size),
-        shuffle=True
+        shuffle=True,
+        num_workers=8,
     )
 
     val_total = 0
